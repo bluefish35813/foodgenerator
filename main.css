@@ -1,0 +1,21 @@
+body {
+  background-color: blue;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.newp {
+  font-size: 20px;
+  padding-bottom: 20px;
+
+}
+
+div.newp1 {
+  padding-top: 30px;
+  font-size: 20px;
+}
+
+div.newp2 {
+  font-size: 20px;
+}
